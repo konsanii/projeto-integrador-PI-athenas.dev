@@ -1,4 +1,4 @@
-![logo](public/logo.png)
+![Logo do Projeto](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/logo/logo.png)
 
 <p align ="center">
   <a href="#sobre">Sobre</a>  |  
@@ -14,11 +14,11 @@
 
 ## 📖 SOBRE O PROJETO
 
-Athena.dev é uma plataforma web que disponibiliza jogos e desafios interativos para o aprendizado prático de programação front-end. A proposta central é tornar a jornada de aprendizado mais acessível, divertida e eficaz por meio de gamificação. As atividades incluem o "Jogo dos Sete Erros" (encontre erros em códigos), "Duelo PVP" (corrida para replicar páginas) desafios (resolva os problemas exibido) , que ajudam a reforçar conceitos de lógica, boas práticas e criação de layouts. Com base em desempenho, os usuários ganham pontos e podem subir em um ranking, promovendo competitividade saudável.
+Athena.dev é uma plataforma web que disponibiliza jogos  interativos para o aprendizado prático de programação front-end. A proposta central é tornar a jornada de aprendizado mais acessível, divertida e eficaz por meio de gamificação. As atividades incluem o "Jogo dos Sete Erros" (encontre erros em códigos), "Duelo PVP" (corrida para replicar páginas) flexbox (praticar o CSS Flexbox, uma para criar layouts flexíveis em páginas web) , que ajudam a reforçar conceitos de lógica, boas práticas e criação de layouts. Com base em desempenho, os usuários ganham pontos e podem subir em um ranking, promovendo competitividade saudável.
 
 ## 📙 ESCOPO
 
-O projeto Athena.dev tem o desenvolvimento de uma plataforma web educacional que proporciona o aprendizado de programação front-end de forma gamificada. O sistema oferece desafios, jogos e funcionalidades que simulam problemas reais enfrentados por desenvolvedores, com foco em treinar lógica, estrutura de código e boas práticas.
+O projeto Athena.dev tem o desenvolvimento de uma plataforma web educacional que proporciona o aprendizado de programação front-end de forma gamificada. O sistema oferece  jogos e funcionalidades que simulam problemas reais enfrentados por desenvolvedores, com foco em treinar lógica, estrutura de código e boas práticas.
 
 ## 📕 METODOLOGIA
 
@@ -29,13 +29,13 @@ O projeto Athena.dev tem o desenvolvimento de uma plataforma web educacional que
 Nosso público-alvo é composto por Estudantes, jovens, autodidatas e educadores que buscam um método dinâmico e gamificado para aprender programação, estimulando o raciocínio lógico e a prática constante.
 
 ## 📚 DIAGRAMA DE CLASSES
-![Image](public/Diagrama%20de%20classe.png)
+![Image](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Diagramas/diagrama_de_classe.jpeg)
 
 ## 📗 REQUISITOS FUNCIONAIS 
-![Image](public/requisitos%20funcionais.png)
+![Image](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/requisitos/requisitos_funcionais.png)
 
 ## 📕 REQUISITOS NÃO FUNCIONAIS
-![Image](public/requisitos-não-funcionais.png)
+![Image](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/requisitos/requisitos_n%C3%A3o_funcionais.png)
 
 ## 🎯 **Objetivos de Desenvolvimento Sustentável (ODS)**
 O software projetado é uma ferramenta web que disponibiliza jogos e desafios, onde o programador poderá desenvolver a lógica e boas práticas de forma lúdica, através de atividades como: Jogo dos sete erros (encontrar erros no código) e Duelo PVP (onde o jogador tentará copiar a página o primeiro que seu adversário). Através de desafios, o usuário poderá ganhar pontos e desta forma acumular e subir sua posição em um ranking que pode, posteriormente, proporcionar de alguma forma uma recompensa. 
@@ -44,19 +44,19 @@ Sendo assim, o objetivo do projeto é treinar os interessados em melhorar suas h
 
 ODS 4
 
-![image](public/ods.4.png)
+![image](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/ODS/ODS_4.png)
 
 4. Educação de qualidade:  Serão proporcionados recursos (documentações e posteriormente aulas e videoaulas) que serão guias para estudos. 
 
 ODS 8
 
-![image](public/ODS.8.png)
+![image](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/ODS/ODS_8.png)
 
 8. Trabalho decente e crescimento econômico: Ao proporcionar uma melhor educação e o acesso a ela, o projeto visa promover as condições sociais econômicas dos usuários. 
 
 ODS 9
 
-![image](public/ODS.9.png)
+![image](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/ODS/ODS_9.png)
 
 9. Indústria, inovação e infraestrutura: O site também busca agregar no conhecimento, criatividade e inovação, através de interações entre usuários e atualizações do mundo da tecnologia. 
 
@@ -86,32 +86,45 @@ ODS 9
     <td>Sprint 3</td>
     <td>01/04 - 15/06</td>
     <td>Finalização do Back-End e início da integração</td>
-    <td>🟡 em andamento</td>
+    <td>✅ Concluído</td>
   </tr>
   <tr>
   <tr>
     <td>Sprint 4</td>
     <td>01/06 - 30/06</td>
     <td>Fase de teste final, documentação pronta e projeto integrado e funcionando</td>
-    <td>🟡 A iniciar</td>
+    <td>✅ Concluído</td>
   </tr>
 </table>
 
 ## 💻🖥️ DEMONSTRAÇÃO DAS TELAS
-[![imagem do figma 1](https://github.com/konsanii/figma-imagem-Pallas/blob/main/Captura%20de%20tela%202025-06-01%20140103.png?raw=true)](https://github.com/konsanii/figma-imagem-Pallas/blob/main/Captura%20de%20tela%202025-06-01%20140103.png)
+[![imagem do figma 1](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/home.png)
 
-[![Imagem do Figma 2](https://github.com/konsanii/figma-imagem-Pallas/blob/main/Captura%20de%20tela%202025-06-01%20140203.png?raw=true)](https://github.com/konsanii/figma-imagem-Pallas/blob/main/Captura%20de%20tela%202025-06-01%20140203.png)
+[![Imagem do Figma 2](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/cadastrar.png)
 
+[![Imagem Figma 3](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/login.png)
 
-[![Imagem Figma 3](https://github.com/konsanii/figma-imagem-Pallas/blob/main/Captura%20de%20tela%202025-06-01%20140234.png?raw=true)](https://github.com/konsanii/figma-imagem-Pallas/blob/main/Captura%20de%20tela%202025-06-01%20140234.png)
+[![Imagem Figma 4](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/esqueci%20senha.png)
 
-[![Imagem Figma 4](https://github.com/konsanii/figma-imagem-Pallas/blob/main/Captura%20de%20tela%202025-06-01%20140341.png?raw=true)](https://github.com/konsanii/figma-imagem-Pallas/blob/main/Captura%20de%20tela%202025-06-01%20140341.png)
+[![Imagem Figma 5](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/jogos.png)
 
-[![Imagem Figma 5](https://github.com/konsanii/figma-imagem-Pallas/blob/main/Captura%20de%20tela%202025-06-01%20140421.png?raw=true)](https://github.com/konsanii/figma-imagem-Pallas/blob/main/Captura%20de%20tela%202025-06-01%20140421.png)
+[![Imagem Figma 6](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/ranking.png)
 
-[![Imagem Figma 6](https://github.com/konsanii/figma-imagem-Pallas/blob/main/Captura%20de%20tela%202025-06-01%20140445.png?raw=true)](https://github.com/konsanii/figma-imagem-Pallas/blob/main/Captura%20de%20tela%202025-06-01%20140445.png)
+[![Imagem Figma 7](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/feedback.png)
 
-[![Imagem Figma 7](https://github.com/konsanii/figma-imagem-Pallas/blob/main/Captura%20de%20tela%202025-06-01%20140619.png?raw=true)](https://github.com/konsanii/figma-imagem-Pallas/blob/main/Captura%20de%20tela%202025-06-01%20140619.png)
+[![Imagem Figma 8](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/contato.png)
+
+[![Imagem Figma 9](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/acessibilidade.png)
+
+[![Imagem Figma 10](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/central%20de%20ajuda.png)
+
+[![Imagem Figma 11](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/politica%20de%20privacidade.png)
+
+[![Imagem Figma 12](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/acessibilidade.png)
+
+[![Imagem Figma 13](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/status%20do%20sistema.png)
+
+[![Imagem Figma 14](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/sobre.png)
 
 ## 📅 GERENCIAMENTO DE CRONOGRAMA 
 ![Cronograma](public/cronograma.png)
