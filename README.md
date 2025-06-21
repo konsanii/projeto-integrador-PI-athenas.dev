@@ -130,109 +130,106 @@ ODS 9
 ![Cronograma](public/cronograma.png)
 
 ## 📚 BACKLOG
-![Backlog](public/backlogs.png)
+![Backlog 1](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Blacklogs/Sprints%201%2C%202%20%2C3.png)
 
+![Backlog 2](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Blacklogs/Sprints%204%2C5%2C6.png)
 
-# User Stories - Projeto Pallas
+# 🧑‍💻 User Stories - Projeto Pallas
 
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
     <tr>
-      <th>ID</th>
-      <th>Ator Envolvido</th>
-      <th>User Story</th>
+      <th>Sprint</th>
+      <th>Atividades Realizadas</th>
+      <th>Requisitos Atendidos</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>PALLAS-30</td>
-      <td>Usuário final</td>
-      <td>Como <strong>usuário do sistema</strong>, eu quero <strong>que as páginas sejam responsivas</strong> para que <strong>eu possa acessar o conteúdo em diferentes dispositivos</strong>.</td>
+      <td>1ª Sprint<br>(11/02/2025 – 08/03/2025)</td>
+      <td>
+        - Desenvolvimento do protótipo visual no Figma.<br>
+        - Levantamento e validação dos requisitos.<br>
+        - Criação do esquema do banco de dados.<br>
+        - Elaboração dos diagramas: Classe, Caso de Uso e Atividades.
+      </td>
+      <td>
+        <strong>RNF003:</strong> Usabilidade e interface intuitiva.<br>
+        <strong>RNF006:</strong> Documentação.
+      </td>
     </tr>
     <tr>
-      <td>PALLAS-28</td>
-      <td>Usuário com deficiência</td>
-      <td>Como <strong>usuário com deficiência</strong>, eu quero <strong>que o site seja acessível</strong> para que <strong>eu possa navegar sem barreiras</strong>.</td>
+      <td>2ª Sprint<br>(10/03/2025 – 05/04/2025)</td>
+      <td>
+        - Desenvolvimento das telas no React.js e TypeScript.<br>
+        - Definição da apresentação dos desafios e jogos.<br>
+        - Estruturação de componentes para responsividade.
+      </td>
+      <td>
+        <strong>RF003:</strong> Geração de desafios.<br>
+        <strong>RF004:</strong> Desenvolvimento da plataforma.<br>
+        <strong>RF009:</strong> Feedback.<br>
+        <strong>RF010:</strong> Contatos.<br>
+        <strong>RNF007:</strong> Responsividade.
+      </td>
     </tr>
     <tr>
-      <td>PALLAS-36</td>
-      <td>Usuário final</td>
-      <td>Como <strong>usuário do sistema</strong>, eu quero <strong>acessar páginas bem estruturadas</strong> para que <strong>eu possa visualizar e interagir com as funcionalidades</strong>.</td>
+      <td>3ª Sprint<br>(07/04/2025 – 03/05/2025)</td>
+      <td>
+        - Implementação de acessibilidade (WCAG).<br>
+        - Testes e otimização da responsividade.<br>
+        - Testes de compatibilidade entre navegadores.<br>
+        - Revisão dos requisitos, diagramas e banco de dados.
+      </td>
+      <td>
+        <strong>RNF003:</strong> Usabilidade.<br>
+        <strong>RNF004:</strong> Compatibilidade.<br>
+        <strong>RNF005:</strong> Acessibilidade.<br>
+        <strong>RNF006:</strong> Documentação.<br>
+        <strong>RNF007:</strong> Responsividade.
+      </td>
     </tr>
     <tr>
-      <td>PALLAS-37</td>
-      <td>Usuário final</td>
-      <td>Como <strong>usuário</strong>, eu quero <strong>que as páginas sejam otimizadas e aprimoradas</strong> para que <strong>eu tenha uma melhor experiência de navegação</strong>.</td>
+      <td>4ª Sprint<br>(05/05/2025 – 31/05/2025)</td>
+      <td>
+        - Desenvolvimento das APIs: cadastro, login, perfis, ranking e pontuação.<br>
+        - Criação de APIs para feedback e contatos.
+      </td>
+      <td>
+        <strong>RF001:</strong> Login e autenticação.<br>
+        <strong>RF002:</strong> Cadastro.<br>
+        <strong>RF005:</strong> Pontuação e ranking.<br>
+        <strong>RF006:</strong> Perfis de usuário.<br>
+        <strong>RF009:</strong> Feedback.<br>
+        <strong>RF010:</strong> Contatos.<br>
+        <strong>RNF002:</strong> Segurança dos dados.
+      </td>
     </tr>
     <tr>
-      <td>PALLAS-21</td>
-      <td>Desenvolvedor</td>
-      <td>Como <strong>desenvolvedor</strong>, eu quero <strong>uma documentação clara das APIs</strong> para que <strong>eu possa integrá-las e utilizá-las corretamente</strong>.</td>
+      <td>5ª Sprint<br>(01/06/2025 – 16/06/2025)</td>
+      <td>
+        - Finalização e testes das APIs.<br>
+        - Testes unitários e de integração.<br>
+        - Testes de desempenho (carga e estresse).<br>
+        - Implementação de medidas de segurança.
+      </td>
+      <td>
+        <strong>RNF001:</strong> Desempenho.<br>
+        <strong>RNF002:</strong> Segurança dos dados.
+      </td>
     </tr>
     <tr>
-      <td>PALLAS-20</td>
-      <td>Equipe de desenvolvimento</td>
-      <td>Como <strong>membro da equipe</strong>, eu quero <strong>uma documentação geral do projeto</strong> para que <strong>todos entendam o funcionamento e arquitetura do sistema</strong>.</td>
-    </tr>
-    <tr>
-      <td>PALLAS-16</td>
-      <td>Desenvolvedor</td>
-      <td>Como <strong>desenvolvedor</strong>, eu quero <strong>rotas de API com GET, PUT, POST, DELETE para usuários</strong> para que <strong>o sistema possa gerenciar usuários</strong>.</td>
-    </tr>
-    <tr>
-      <td>PALLAS-17</td>
-      <td>Desenvolvedor</td>
-      <td>Como <strong>desenvolvedor</strong>, eu quero <strong>rotas de API com GET, PUT, POST, DELETE para jogos</strong> para que <strong>o sistema possa gerenciar jogos</strong>.</td>
-    </tr>
-    <tr>
-      <td>PALLAS-18</td>
-      <td>Desenvolvedor</td>
-      <td>Como <strong>desenvolvedor</strong>, eu quero <strong>rotas de API com GET, PUT, POST, DELETE para ranking</strong> para que <strong>o sistema possa exibir e atualizar rankings</strong>.</td>
-    </tr>
-    <tr>
-      <td>PALLAS-19</td>
-      <td>Desenvolvedor</td>
-      <td>Como <strong>desenvolvedor</strong>, eu quero <strong>rotas de API com GET, PUT, POST, DELETE para desafios</strong> para que <strong>o sistema possa gerenciar desafios</strong>.</td>
-    </tr>
-    <tr>
-      <td>PALLAS-30</td>
-      <td>Usuário</td>
-      <td>Como <strong>usuário</strong>, eu quero <strong>realizar login com segurança</strong> para que <strong>eu possa acessar funcionalidades restritas do sistema</strong>.</td>
-    </tr>
-    <tr>
-      <td>PALLAS-35</td>
-      <td>Novo usuário</td>
-      <td>Como <strong>novo usuário</strong>, eu quero <strong>me cadastrar no sistema</strong> para que <strong>eu possa utilizar a plataforma</strong>.</td>
-    </tr>
-    <tr>
-      <td>PALLAS-33</td>
-      <td>Usuário final</td>
-      <td>Como <strong>usuário final</strong>, eu quero <strong>um sistema totalmente integrado</strong> para que <strong>eu possa usar todas as funcionalidades sem erros</strong>.</td>
-    </tr>
-    <tr>
-      <td>PALLAS-13</td>
-      <td>Usuário com mobilidade reduzida</td>
-      <td>Como <strong>usuário com mobilidade reduzida</strong>, eu quero <strong>navegar pelo site com teclado</strong> para que <strong>eu possa acessar tudo sem usar o mouse</strong>.</td>
-    </tr>
-    <tr>
-      <td>PALLAS-14</td>
-      <td>Usuário com deficiência visual</td>
-      <td>Como <strong>usuário com deficiência visual</strong>, eu quero <strong>que os elementos sejam lidos por voz</strong> para que <strong>eu compreenda o conteúdo do site</strong>.</td>
-    </tr>
-    <tr>
-      <td>PALLAS-15</td>
-      <td>Usuário surdo</td>
-      <td>Como <strong>usuário surdo</strong>, eu quero <strong>acesso ao conteúdo em Libras</strong> para que <strong>eu compreenda as informações do site</strong>.</td>
-    </tr>
-    <tr>
-      <td>PALLAS-22</td>
-      <td>Usuário com necessidades especiais</td>
-      <td>Como <strong>usuário com necessidades especiais</strong>, eu quero <strong>que todas as páginas sejam acessíveis</strong> para que <strong>eu possa utilizá-las plenamente</strong>.</td>
-    </tr>
-    <tr>
-      <td>PALLAS-24 / PALLAS-22</td>
-      <td>Equipe de desenvolvimento</td>
-      <td>Como <strong>membro da equipe</strong>, eu quero <strong>criar um protótipo navegável</strong> para que <strong>eu possa validar funcionalidades antes da implementação</strong>.</td>
+      <td>6ª Sprint<br>(16/06/2025 – 20/06/2025)</td>
+      <td>
+        - Finalização e revisão da documentação.<br>
+        - Integração do frontend com o backend.<br>
+        - Testes de sistema e aceitação.<br>
+        - Preparação para a entrega final.
+      </td>
+      <td>
+        <strong>RNF006:</strong> Documentação.<br>
+        <strong>Entrega Final:</strong> [Data da Entrega Final].
+      </td>
     </tr>
   </tbody>
 </table>
@@ -317,30 +314,4 @@ ODS 9
 
 
 
-# Pallas
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
