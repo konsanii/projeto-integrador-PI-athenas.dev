@@ -10,7 +10,7 @@
   <a href="#equipe">Equipe</a>
 </p>
 
-## 📌 Status do Projeto : Em andamento
+## 📌 Status do Projeto : concluido
 
 ## 📖 SOBRE O PROJETO
 
@@ -126,15 +126,12 @@ ODS 9
 
 ![Imagem Figma 14](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/sobre.png)
 
-## 📅 GERENCIAMENTO DE CRONOGRAMA 
-![Cronograma](public/cronograma.png)
-
 ## 📚 BACKLOG
 ![Backlog 1](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Blacklogs/Sprints%201%2C%202%20%2C3.png)
 
 ![Backlog 2](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Blacklogs/Sprints%204%2C5%2C6.png)
 
-# 🧑‍💻 User Stories - Projeto Pallas
+# 🚀 Descrição das sprints - Projeto Pallas
 
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
@@ -234,13 +231,50 @@ ODS 9
   </tbody>
 </table>
 
+# 🧑‍💻 User Stories - Projeto Pallas
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Épico</th>
+      <th>ID</th>
+      <th>Ator</th>
+      <th>Ação</th>
+      <th>Motivo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>1</td><td>Usuário</td><td>Fazer login</td><td>Acessar minha conta e as funcionalidades exclusivas da plataforma.</td></tr>
+    <tr><td>1</td><td>2</td><td>Administrador</td><td>Fazer login</td><td>Gerenciar o conteúdo e usuários do sistema.</td></tr>
+    <tr><td>2</td><td>3</td><td>Novo visitante</td><td>Criar conta</td><td>Ter acesso completo aos desafios e recursos.</td></tr>
+    <tr><td>2</td><td>4</td><td>Administrador</td><td>Gerenciar contas</td><td>Manter a base de usuários organizada e gerenciar acessos.</td></tr>
+    <tr><td>3</td><td>5</td><td>Usuário logado</td><td>Visualizar desafios</td><td>Escolher um para praticar.</td></tr>
+    <tr><td>3</td><td>6</td><td>Usuário logado</td><td>Selecionar um desafio</td><td>Ver detalhes e acessar o link para o jogo externo.</td></tr>
+    <tr><td>3</td><td>7</td><td>Administrador</td><td>Gerenciar desafios</td><td>Manter o conteúdo atualizado e relevante para os usuários.</td></tr>
+    <tr><td>4</td><td>8</td><td>Usuário</td><td>Acessar a plataforma principal</td><td>Gerenciar meu perfil, ver desafios e ranking, e ser redirecionado para os jogos.</td></tr>
+    <tr><td>4</td><td>9</td><td>Sistema</td><td>Gerenciar a lógica de redirecionamento</td><td>Para que os usuários possam iniciar os desafios de programação de forma fluida.</td></tr>
+    <tr><td>5</td><td>10</td><td>Usuário</td><td>Ter pontuação atualizada</td><td>Acompanhar meu progresso.</td></tr>
+    <tr><td>5</td><td>11</td><td>Usuário</td><td>Visualizar ranking</td><td>Comparar meu desempenho com outros e me motivar.</td></tr>
+    <tr><td>5</td><td>12</td><td>Administrador</td><td>Ajustar pontuação de usuário</td><td>Corrigir erros ou conceder bônus por eventos especiais.</td></tr>
+    <tr><td>6</td><td>13</td><td>Usuário logado</td><td>Gerenciar perfil</td><td>Personalizar minha experiência na plataforma.</td></tr>
+    <tr><td>7</td><td>14</td><td>Visitante</td><td>Acessar uma seção com informações da equipe</td><td>Conhecer os desenvolvedores e criadores do site.</td></tr>
+    <tr><td>7</td><td>15</td><td>Administrador</td><td>Editar informações da equipe</td><td>Manter a página "Sobre a Equipe" atualizada.</td></tr>
+    <tr><td>8</td><td>16</td><td>Usuário</td><td>Solicitar a recuperação da senha</td><td>Recuperar o acesso à minha conta.</td></tr>
+    <tr><td>8</td><td>17</td><td>Sistema</td><td>Enviar link de redefinição de senha via e-mail</td><td>Recuperar sua conta de forma autônoma e segura.</td></tr>
+    <tr><td>9</td><td>18</td><td>Usuário</td><td>Solicitação de avaliação de satisfação sobre a página</td><td>Possa expressar minha opinião e ter minha experiência aprimorada.</td></tr>
+    <tr><td>10</td><td>19</td><td>Usuário</td><td>Ter acesso a um formulário de contato</td><td>Possa enviar mensagens diretamente ao administrador sobre dúvidas, sugestões ou problemas.</td></tr>
+  </tbody>
+</table>
+
 
 
 ## 🖥️ PROTÓTIPO E DOCUMENTAÇÃO
 
 > 🔗 **Links das documentações** 
 
-> -[📄 Visualizar PDF da documentação](https://github.com/konsanii/figma-imagem-Pallas/blob/main/Pallas-Athena.dev-DOC.pdf)
+> -[📄 Visualizar a documentação](https://github.com/konsanii/documenta-o_athenas.dev/tree/main/Documentos)
+
+> - [🎨 Visualizar Protótipo no Figma](https://www.figma.com/design/2TLE27Bml8iXEBfL2uwItI/AthenaDev?node-id=0-1&p=f&t=yCTflDofzWUjo0TY-0)
 
 ## 🛠️ TECNOLOGIAS UTILIZADAS
 
@@ -248,7 +282,6 @@ ODS 9
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>

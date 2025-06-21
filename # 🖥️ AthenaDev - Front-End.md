@@ -16,8 +16,8 @@ Nele estão presentes os códigos, componentes, estilos e funcionalidades visuai
 
 - HTML
 - CSS
-- JavaScript
-- Angular *(ou outras, caso estejam usando)*
+- Typerscript
+- React 
 
 ---
 
