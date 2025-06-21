@@ -32,10 +32,10 @@ Nosso público-alvo é composto por Estudantes, jovens, autodidatas e educadores
 ![Image](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Diagramas/diagrama_de_classe.jpeg)
 
 ## 📗 REQUISITOS FUNCIONAIS 
-![Image](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/requisitos/requisitos_funcionais.png)
+![Image](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/requisitos/Requisitos%20funcioanais.png)
 
 ## 📕 REQUISITOS NÃO FUNCIONAIS
-![Image](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/requisitos/requisitos_n%C3%A3o_funcionais.png)
+![Image](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/requisitos/Requisito%20n%C3%A3o%20funcionais.png)
 
 ## 🎯 **Objetivos de Desenvolvimento Sustentável (ODS)**
 O software projetado é uma ferramenta web que disponibiliza jogos e desafios, onde o programador poderá desenvolver a lógica e boas práticas de forma lúdica, através de atividades como: Jogo dos sete erros (encontrar erros no código) e Duelo PVP (onde o jogador tentará copiar a página o primeiro que seu adversário). Através de desafios, o usuário poderá ganhar pontos e desta forma acumular e subir sua posição em um ranking que pode, posteriormente, proporcionar de alguma forma uma recompensa. 
@@ -98,33 +98,33 @@ ODS 9
 </table>
 
 ## 💻🖥️ DEMONSTRAÇÃO DAS TELAS
-[![imagem do figma 1](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/home.png)
+![imagem do figma 1](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/home.png)
 
-[![Imagem do Figma 2](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/cadastrar.png)
+![Imagem do Figma 2](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/cadastrar.png)
 
-[![Imagem Figma 3](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/login.png)
+![Imagem Figma 3](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/login.png)
 
-[![Imagem Figma 4](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/esqueci%20senha.png)
+![Imagem Figma 4](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/esqueci%20senha.png)
 
-[![Imagem Figma 5](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/jogos.png)
+![Imagem Figma 5](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/jogos.png)
 
-[![Imagem Figma 6](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/ranking.png)
+![Imagem Figma 6](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/ranking.png)
 
-[![Imagem Figma 7](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/feedback.png)
+![Imagem Figma 7](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/feedback.png)
 
-[![Imagem Figma 8](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/contato.png)
+![Imagem Figma 8](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/contato.png)
 
-[![Imagem Figma 9](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/acessibilidade.png)
+![Imagem Figma 9](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/acessibilidade.png)
 
-[![Imagem Figma 10](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/central%20de%20ajuda.png)
+![Imagem Figma 10](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/central%20de%20ajuda.png)
 
-[![Imagem Figma 11](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/politica%20de%20privacidade.png)
+![Imagem Figma 11](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/politica%20de%20privacidade.png)
 
-[![Imagem Figma 12](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/acessibilidade.png)
+![Imagem Figma 12](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/acessibilidade.png)
 
-[![Imagem Figma 13](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/status%20do%20sistema.png)
+![Imagem Figma 13](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/status%20do%20sistema.png)
 
-[![Imagem Figma 14](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/sobre.png)
+![Imagem Figma 14](https://github.com/konsanii/documenta-o_athenas.dev/raw/main/Figma/sobre.png)
 
 ## 📅 GERENCIAMENTO DE CRONOGRAMA 
 ![Cronograma](public/cronograma.png)
@@ -248,18 +248,23 @@ ODS 9
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/BrModelo-%2300BFFF.svg?style=for-the-badge&logo=data&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+
 </p>
 
-## 👥 EQUIPE
+## 👥 EQUIPE PALLAS
 
 <table>
   <thead>
@@ -301,7 +306,7 @@ ODS 9
       <td>Matheus Nery</td>
       <td>Product Owner</td>
       <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/MatheusNery005" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
         </a>
       </td>
